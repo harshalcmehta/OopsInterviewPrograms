@@ -332,3 +332,8 @@ history/
 
 # JetBrains Rider
 *.sln.iml
+
+.vs
+bin
+obj
+packages
