@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Harshal\\InterviewPreparations\\OOPwithCSharp\\ObjectOrientedProgrammingConcepts\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj": {}
+    "D:\\Harshal\\GitHub\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj": {}
   },
   "projects": {
-    "D:\\Harshal\\InterviewPreparations\\OOPwithCSharp\\ObjectOrientedProgrammingConcepts\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj": {
+    "D:\\Harshal\\GitHub\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Harshal\\InterviewPreparations\\OOPwithCSharp\\ObjectOrientedProgrammingConcepts\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj",
+        "projectUniqueName": "D:\\Harshal\\GitHub\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj",
         "projectName": "OopsInterviewPrograms",
-        "projectPath": "D:\\Harshal\\InterviewPreparations\\OOPwithCSharp\\ObjectOrientedProgrammingConcepts\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj",
+        "projectPath": "D:\\Harshal\\GitHub\\OopsInterviewPrograms\\OopsInterviewPrograms.csproj",
         "packagesPath": "C:\\Users\\Harshal Mehta\\.nuget\\packages\\",
-        "outputPath": "D:\\Harshal\\InterviewPreparations\\OOPwithCSharp\\ObjectOrientedProgrammingConcepts\\OopsInterviewPrograms\\obj\\",
+        "outputPath": "D:\\Harshal\\GitHub\\OopsInterviewPrograms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
